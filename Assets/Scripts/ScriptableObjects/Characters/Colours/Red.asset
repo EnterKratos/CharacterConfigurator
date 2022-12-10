@@ -13,4 +13,4 @@ MonoBehaviour:
   m_Name: Red
   m_EditorClassIdentifier: 
   price: 600
-  colour: {r: 0.5372549, g: 0.054901965, b: 0.078431375, a: 1}
+  colour: {r: 0.74509805, g: 0.15294118, b: 0.21176472, a: 1}
