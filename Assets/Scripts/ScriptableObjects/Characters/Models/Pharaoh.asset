@@ -12,6 +12,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6b14f79e0a164ac9bb36993981a13ecb, type: 3}
   m_Name: Pharaoh
   m_EditorClassIdentifier: 
-  name: Pharaoh
   price: 8000
-  modelPrefab: {fileID: 0}
+  name: Pharaoh
+  prefabs:
+  - {fileID: 6181212515355254857, guid: 36bd9e3865af6bd4597ead02bc333ee2, type: 3}
+  - {fileID: 8575629679090598820, guid: a1c8c12d05f49b9488da9982a826742b, type: 3}
+  - {fileID: 3517792436181833467, guid: 2be63797202ea5b4785800e7a837eff6, type: 3}

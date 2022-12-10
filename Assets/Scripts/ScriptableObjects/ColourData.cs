@@ -6,6 +6,5 @@ namespace CharacterConfigurator.ScriptableObjects
     public class ColourData : Purchasable
     {
         public Color colour;
-        public GameObject prefab;
     }
 }

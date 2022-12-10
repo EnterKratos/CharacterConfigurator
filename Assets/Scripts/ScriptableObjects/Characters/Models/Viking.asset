@@ -12,6 +12,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6b14f79e0a164ac9bb36993981a13ecb, type: 3}
   m_Name: Viking
   m_EditorClassIdentifier: 
-  name: Viking
   price: 10000
-  modelPrefab: {fileID: 0}
+  name: Viking
+  prefabs:
+  - {fileID: 3759236642031038974, guid: d093b06253996114bb2a2cd750c3ef1c, type: 3}
+  - {fileID: 8341461966552428893, guid: 0a134fbb688517849a0cdf43c927879c, type: 3}
+  - {fileID: 8886641883710186183, guid: 645fd2cf7a010734bae6ce76c1f9b4b5, type: 3}

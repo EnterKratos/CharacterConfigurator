@@ -6,5 +6,6 @@ namespace CharacterConfigurator.ScriptableObjects
     public class ModelData : Purchasable
     {
         public new string name;
+        public GameObject[] prefabs;
     }
 }

@@ -20,7 +20,7 @@ PrefabInstance:
     - target: {fileID: 3759236642031038974, guid: d093b06253996114bb2a2cd750c3ef1c,
         type: 3}
       propertyPath: m_Name
-      value: Viking_Green
+      value: Viking_Green Variant
       objectReference: {fileID: 0}
     - target: {fileID: 4566840665422703428, guid: d093b06253996114bb2a2cd750c3ef1c,
         type: 3}
@@ -45,7 +45,7 @@ PrefabInstance:
     - target: {fileID: 4566840665422703428, guid: d093b06253996114bb2a2cd750c3ef1c,
         type: 3}
       propertyPath: m_LocalRotation.w
-      value: 1
+      value: 0.4181843
       objectReference: {fileID: 0}
     - target: {fileID: 4566840665422703428, guid: d093b06253996114bb2a2cd750c3ef1c,
         type: 3}
@@ -55,7 +55,7 @@ PrefabInstance:
     - target: {fileID: 4566840665422703428, guid: d093b06253996114bb2a2cd750c3ef1c,
         type: 3}
       propertyPath: m_LocalRotation.y
-      value: 0
+      value: 0.9083622
       objectReference: {fileID: 0}
     - target: {fileID: 4566840665422703428, guid: d093b06253996114bb2a2cd750c3ef1c,
         type: 3}
@@ -70,7 +70,7 @@ PrefabInstance:
     - target: {fileID: 4566840665422703428, guid: d093b06253996114bb2a2cd750c3ef1c,
         type: 3}
       propertyPath: m_LocalEulerAnglesHint.y
-      value: 0
+      value: 130.56
       objectReference: {fileID: 0}
     - target: {fileID: 4566840665422703428, guid: d093b06253996114bb2a2cd750c3ef1c,
         type: 3}

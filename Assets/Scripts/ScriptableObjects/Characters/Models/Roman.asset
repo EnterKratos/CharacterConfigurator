@@ -12,6 +12,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6b14f79e0a164ac9bb36993981a13ecb, type: 3}
   m_Name: Roman
   m_EditorClassIdentifier: 
-  name: Roman
   price: 9000
-  modelPrefab: {fileID: 0}
+  name: Roman
+  prefabs:
+  - {fileID: 5238217621217372422, guid: 4ca617117a39ff04896b505461c0cf90, type: 3}
+  - {fileID: 2882504893971357831, guid: 874278c801774a744a9f603f7380d249, type: 3}
+  - {fileID: 3711080897699734275, guid: 61d2ff0d544cd4f43b5ea53b7c4f4581, type: 3}
