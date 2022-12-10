@@ -1,4 +1,4 @@
-﻿namespace CarConfigurator
+﻿namespace CharacterConfigurator
 {
     public static class Helpers
     {

@@ -12,6 +12,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 816a53b2f9224652b8442fca988ec6fd, type: 3}
   m_Name: RomanSpear
   m_EditorClassIdentifier: 
+  price: 1600
   name: Roman Spear
-  price: 1700
   prefab: {fileID: 433088331691256068, guid: fe71aef4698ecf742b4f0c536fdeae75, type: 3}

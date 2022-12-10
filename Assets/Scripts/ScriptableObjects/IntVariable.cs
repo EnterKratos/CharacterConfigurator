@@ -1,6 +1,6 @@
 ﻿using UnityEngine;
 
-namespace CarConfigurator.ScriptableObjects
+namespace CharacterConfigurator.ScriptableObjects
 {
     [CreateAssetMenu(menuName = "Variables/Int")]
     public class IntVariable : ScriptableObject

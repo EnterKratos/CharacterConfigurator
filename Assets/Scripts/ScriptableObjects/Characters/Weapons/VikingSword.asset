@@ -12,6 +12,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 816a53b2f9224652b8442fca988ec6fd, type: 3}
   m_Name: VikingSword
   m_EditorClassIdentifier: 
+  price: 1700
   name: Viking Sword
-  price: 1600
   prefab: {fileID: 5487516270576740437, guid: cf5bef1fbb9d82545beb84f6a0d5721d, type: 3}

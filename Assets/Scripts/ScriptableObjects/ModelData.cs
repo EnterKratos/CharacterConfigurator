@@ -3,9 +3,8 @@
 namespace CharacterConfigurator.ScriptableObjects
 {
     [CreateAssetMenu(menuName = "Character/ModelData")]
-    public class ModelData : ScriptableObject
+    public class ModelData : Purchasable
     {
         public new string name;
-        public double price;
     }
 }

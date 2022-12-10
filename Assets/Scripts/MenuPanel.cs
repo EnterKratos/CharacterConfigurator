@@ -1,4 +1,4 @@
-using CarConfigurator.ScriptableObjects;
+using CharacterConfigurator.ScriptableObjects;
 using UnityEngine;
 
 namespace CharacterConfigurator
