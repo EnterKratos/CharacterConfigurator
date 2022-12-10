@@ -10,12 +10,12 @@ PrefabInstance:
     - target: {fileID: 1427033597594251241, guid: 252713421b6a632439f65cf354b029d9,
         type: 3}
       propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.size
-      value: 2
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 1427033597594251241, guid: 252713421b6a632439f65cf354b029d9,
         type: 3}
       propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_Mode
-      value: 3
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 1427033597594251241, guid: 252713421b6a632439f65cf354b029d9,
         type: 3}
@@ -26,8 +26,7 @@ PrefabInstance:
         type: 3}
       propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_Target
       value: 
-      objectReference: {fileID: 11400000, guid: 85ac906b82fe9a2448670bc94b46db0a,
-        type: 2}
+      objectReference: {fileID: 814153559640323119}
     - target: {fileID: 1427033597594251241, guid: 252713421b6a632439f65cf354b029d9,
         type: 3}
       propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[1].m_Target
@@ -47,7 +46,7 @@ PrefabInstance:
     - target: {fileID: 1427033597594251241, guid: 252713421b6a632439f65cf354b029d9,
         type: 3}
       propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_MethodName
-      value: Set
+      value: OnClick
       objectReference: {fileID: 0}
     - target: {fileID: 1427033597594251241, guid: 252713421b6a632439f65cf354b029d9,
         type: 3}
@@ -57,7 +56,7 @@ PrefabInstance:
     - target: {fileID: 1427033597594251241, guid: 252713421b6a632439f65cf354b029d9,
         type: 3}
       propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_TargetAssemblyTypeName
-      value: CarConfigurator.ScriptableObjects.IntVariable, Assembly-CSharp
+      value: CharacterConfigurator.MenuButton, Assembly-CSharp
       objectReference: {fileID: 0}
     - target: {fileID: 1427033597594251241, guid: 252713421b6a632439f65cf354b029d9,
         type: 3}
@@ -191,3 +190,23 @@ PrefabInstance:
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 252713421b6a632439f65cf354b029d9, type: 3}
+--- !u!1 &3433325867432881648 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 1427033597594251244, guid: 252713421b6a632439f65cf354b029d9,
+    type: 3}
+  m_PrefabInstance: {fileID: 4352809100683772444}
+  m_PrefabAsset: {fileID: 0}
+--- !u!114 &814153559640323119
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3433325867432881648}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ebdbcd5a08f54d54a36371eccca61d7d, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  selectedMenuIndex: {fileID: 11400000, guid: 85ac906b82fe9a2448670bc94b46db0a, type: 2}
+  menuChangedEvent: {fileID: 11400000, guid: 85ce31431c66f2742a67677741b4dfc5, type: 2}
