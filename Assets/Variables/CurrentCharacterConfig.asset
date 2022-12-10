@@ -10,8 +10,11 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 664e3ea54f1b4744c9cb54a2cfef9620, type: 3}
-  m_Name: Pharaoh
+  m_Name: CurrentCharacterConfig
   m_EditorClassIdentifier: 
   model: {fileID: 11400000, guid: 5aaec580f2f4dc24eaca09438106f407, type: 2}
   weapon: {fileID: 11400000, guid: 2470e2ed25f77a146b3b8ae2b9a92c53, type: 2}
   colour: {fileID: 11400000, guid: 93d8691febb02d649bb740c2d286aed8, type: 2}
+  _model: {fileID: 11400000, guid: 5aaec580f2f4dc24eaca09438106f407, type: 2}
+  _weapon: {fileID: 11400000, guid: 2470e2ed25f77a146b3b8ae2b9a92c53, type: 2}
+  _colour: {fileID: 11400000, guid: 93d8691febb02d649bb740c2d286aed8, type: 2}

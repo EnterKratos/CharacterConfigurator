@@ -1860,6 +1860,32 @@ PrefabInstance:
       propertyPath: m_text
       value: Weapon
       objectReference: {fileID: 0}
+    - target: {fileID: 5260332107760455067, guid: 4be41351a8e175f4296f6e4c83c3b638,
+        type: 3}
+      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_Mode
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 5260332107760455067, guid: 4be41351a8e175f4296f6e4c83c3b638,
+        type: 3}
+      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_MethodName
+      value: Set
+      objectReference: {fileID: 0}
+    - target: {fileID: 5260332107760455067, guid: 4be41351a8e175f4296f6e4c83c3b638,
+        type: 3}
+      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_TargetAssemblyTypeName
+      value: CharacterConfigurator.ScriptableObjects.CharacterData, Assembly-CSharp
+      objectReference: {fileID: 0}
+    - target: {fileID: 5260332107760455067, guid: 4be41351a8e175f4296f6e4c83c3b638,
+        type: 3}
+      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_Arguments.m_ObjectArgument
+      value: 
+      objectReference: {fileID: 11400000, guid: 66d56420d4b22f54f9782b7c1f77e92a,
+        type: 2}
+    - target: {fileID: 5260332107760455067, guid: 4be41351a8e175f4296f6e4c83c3b638,
+        type: 3}
+      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_Arguments.m_ObjectArgumentAssemblyTypeName
+      value: CharacterConfigurator.ScriptableObjects.WeaponData, Assembly-CSharp
+      objectReference: {fileID: 0}
     - target: {fileID: 5260332107760455069, guid: 4be41351a8e175f4296f6e4c83c3b638,
         type: 3}
       propertyPath: m_AnchorMax.y
@@ -1884,6 +1910,32 @@ PrefabInstance:
         type: 3}
       propertyPath: m_text
       value: Weapon
+      objectReference: {fileID: 0}
+    - target: {fileID: 5750261382828595337, guid: 4be41351a8e175f4296f6e4c83c3b638,
+        type: 3}
+      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_Mode
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 5750261382828595337, guid: 4be41351a8e175f4296f6e4c83c3b638,
+        type: 3}
+      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_MethodName
+      value: Set
+      objectReference: {fileID: 0}
+    - target: {fileID: 5750261382828595337, guid: 4be41351a8e175f4296f6e4c83c3b638,
+        type: 3}
+      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_TargetAssemblyTypeName
+      value: CharacterConfigurator.ScriptableObjects.CharacterData, Assembly-CSharp
+      objectReference: {fileID: 0}
+    - target: {fileID: 5750261382828595337, guid: 4be41351a8e175f4296f6e4c83c3b638,
+        type: 3}
+      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_Arguments.m_ObjectArgument
+      value: 
+      objectReference: {fileID: 11400000, guid: 63e271d0dcddc98428d35deed2a3503b,
+        type: 2}
+    - target: {fileID: 5750261382828595337, guid: 4be41351a8e175f4296f6e4c83c3b638,
+        type: 3}
+      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_Arguments.m_ObjectArgumentAssemblyTypeName
+      value: CharacterConfigurator.ScriptableObjects.WeaponData, Assembly-CSharp
       objectReference: {fileID: 0}
     - target: {fileID: 5750261382828595343, guid: 4be41351a8e175f4296f6e4c83c3b638,
         type: 3}
@@ -1956,6 +2008,32 @@ PrefabInstance:
         type: 3}
       propertyPath: m_AnchoredPosition.y
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8024835746794675120, guid: 4be41351a8e175f4296f6e4c83c3b638,
+        type: 3}
+      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_Mode
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 8024835746794675120, guid: 4be41351a8e175f4296f6e4c83c3b638,
+        type: 3}
+      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_MethodName
+      value: Set
+      objectReference: {fileID: 0}
+    - target: {fileID: 8024835746794675120, guid: 4be41351a8e175f4296f6e4c83c3b638,
+        type: 3}
+      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_TargetAssemblyTypeName
+      value: CharacterConfigurator.ScriptableObjects.CharacterData, Assembly-CSharp
+      objectReference: {fileID: 0}
+    - target: {fileID: 8024835746794675120, guid: 4be41351a8e175f4296f6e4c83c3b638,
+        type: 3}
+      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_Arguments.m_ObjectArgument
+      value: 
+      objectReference: {fileID: 11400000, guid: 2470e2ed25f77a146b3b8ae2b9a92c53,
+        type: 2}
+    - target: {fileID: 8024835746794675120, guid: 4be41351a8e175f4296f6e4c83c3b638,
+        type: 3}
+      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_Arguments.m_ObjectArgumentAssemblyTypeName
+      value: CharacterConfigurator.ScriptableObjects.WeaponData, Assembly-CSharp
       objectReference: {fileID: 0}
     - target: {fileID: 8024835746794675125, guid: 4be41351a8e175f4296f6e4c83c3b638,
         type: 3}
@@ -2153,10 +2231,62 @@ PrefabInstance:
       propertyPath: m_text
       value: Colour
       objectReference: {fileID: 0}
+    - target: {fileID: 5260332107760455067, guid: 4be41351a8e175f4296f6e4c83c3b638,
+        type: 3}
+      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_Mode
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 5260332107760455067, guid: 4be41351a8e175f4296f6e4c83c3b638,
+        type: 3}
+      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_MethodName
+      value: Set
+      objectReference: {fileID: 0}
+    - target: {fileID: 5260332107760455067, guid: 4be41351a8e175f4296f6e4c83c3b638,
+        type: 3}
+      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_TargetAssemblyTypeName
+      value: CharacterConfigurator.ScriptableObjects.CharacterData, Assembly-CSharp
+      objectReference: {fileID: 0}
+    - target: {fileID: 5260332107760455067, guid: 4be41351a8e175f4296f6e4c83c3b638,
+        type: 3}
+      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_Arguments.m_ObjectArgument
+      value: 
+      objectReference: {fileID: 11400000, guid: c2a6a0f027864804d9dc4b2112ceb75c,
+        type: 2}
+    - target: {fileID: 5260332107760455067, guid: 4be41351a8e175f4296f6e4c83c3b638,
+        type: 3}
+      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_Arguments.m_ObjectArgumentAssemblyTypeName
+      value: CharacterConfigurator.ScriptableObjects.ColourData, Assembly-CSharp
+      objectReference: {fileID: 0}
     - target: {fileID: 5750261382448677639, guid: 4be41351a8e175f4296f6e4c83c3b638,
         type: 3}
       propertyPath: m_text
       value: Colour
+      objectReference: {fileID: 0}
+    - target: {fileID: 5750261382828595337, guid: 4be41351a8e175f4296f6e4c83c3b638,
+        type: 3}
+      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_Mode
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 5750261382828595337, guid: 4be41351a8e175f4296f6e4c83c3b638,
+        type: 3}
+      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_MethodName
+      value: Set
+      objectReference: {fileID: 0}
+    - target: {fileID: 5750261382828595337, guid: 4be41351a8e175f4296f6e4c83c3b638,
+        type: 3}
+      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_TargetAssemblyTypeName
+      value: CharacterConfigurator.ScriptableObjects.CharacterData, Assembly-CSharp
+      objectReference: {fileID: 0}
+    - target: {fileID: 5750261382828595337, guid: 4be41351a8e175f4296f6e4c83c3b638,
+        type: 3}
+      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_Arguments.m_ObjectArgument
+      value: 
+      objectReference: {fileID: 11400000, guid: 11de8f707e8b79c4eb956693d04e5942,
+        type: 2}
+    - target: {fileID: 5750261382828595337, guid: 4be41351a8e175f4296f6e4c83c3b638,
+        type: 3}
+      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_Arguments.m_ObjectArgumentAssemblyTypeName
+      value: CharacterConfigurator.ScriptableObjects.ColourData, Assembly-CSharp
       objectReference: {fileID: 0}
     - target: {fileID: 7463920899838828574, guid: 4be41351a8e175f4296f6e4c83c3b638,
         type: 3}
@@ -2209,6 +2339,32 @@ PrefabInstance:
         type: 3}
       propertyPath: m_AnchoredPosition.y
       value: -305
+      objectReference: {fileID: 0}
+    - target: {fileID: 8024835746794675120, guid: 4be41351a8e175f4296f6e4c83c3b638,
+        type: 3}
+      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_Mode
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 8024835746794675120, guid: 4be41351a8e175f4296f6e4c83c3b638,
+        type: 3}
+      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_MethodName
+      value: Set
+      objectReference: {fileID: 0}
+    - target: {fileID: 8024835746794675120, guid: 4be41351a8e175f4296f6e4c83c3b638,
+        type: 3}
+      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_TargetAssemblyTypeName
+      value: CharacterConfigurator.ScriptableObjects.CharacterData, Assembly-CSharp
+      objectReference: {fileID: 0}
+    - target: {fileID: 8024835746794675120, guid: 4be41351a8e175f4296f6e4c83c3b638,
+        type: 3}
+      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_Arguments.m_ObjectArgument
+      value: 
+      objectReference: {fileID: 11400000, guid: 93d8691febb02d649bb740c2d286aed8,
+        type: 2}
+    - target: {fileID: 8024835746794675120, guid: 4be41351a8e175f4296f6e4c83c3b638,
+        type: 3}
+      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_Arguments.m_ObjectArgumentAssemblyTypeName
+      value: CharacterConfigurator.ScriptableObjects.ColourData, Assembly-CSharp
       objectReference: {fileID: 0}
     - target: {fileID: 8024835746794675125, guid: 4be41351a8e175f4296f6e4c83c3b638,
         type: 3}
@@ -2411,10 +2567,62 @@ PrefabInstance:
       propertyPath: m_text
       value: Character
       objectReference: {fileID: 0}
+    - target: {fileID: 5260332107760455067, guid: 4be41351a8e175f4296f6e4c83c3b638,
+        type: 3}
+      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_Mode
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 5260332107760455067, guid: 4be41351a8e175f4296f6e4c83c3b638,
+        type: 3}
+      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_MethodName
+      value: Set
+      objectReference: {fileID: 0}
+    - target: {fileID: 5260332107760455067, guid: 4be41351a8e175f4296f6e4c83c3b638,
+        type: 3}
+      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_TargetAssemblyTypeName
+      value: CharacterConfigurator.ScriptableObjects.CharacterData, Assembly-CSharp
+      objectReference: {fileID: 0}
+    - target: {fileID: 5260332107760455067, guid: 4be41351a8e175f4296f6e4c83c3b638,
+        type: 3}
+      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_Arguments.m_ObjectArgument
+      value: 
+      objectReference: {fileID: 11400000, guid: 899e3a121b284c742bb7d1a137a04d04,
+        type: 2}
+    - target: {fileID: 5260332107760455067, guid: 4be41351a8e175f4296f6e4c83c3b638,
+        type: 3}
+      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_Arguments.m_ObjectArgumentAssemblyTypeName
+      value: CharacterConfigurator.ScriptableObjects.ModelData, Assembly-CSharp
+      objectReference: {fileID: 0}
     - target: {fileID: 5750261382448677639, guid: 4be41351a8e175f4296f6e4c83c3b638,
         type: 3}
       propertyPath: m_text
       value: Character
+      objectReference: {fileID: 0}
+    - target: {fileID: 5750261382828595337, guid: 4be41351a8e175f4296f6e4c83c3b638,
+        type: 3}
+      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_Mode
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 5750261382828595337, guid: 4be41351a8e175f4296f6e4c83c3b638,
+        type: 3}
+      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_MethodName
+      value: Set
+      objectReference: {fileID: 0}
+    - target: {fileID: 5750261382828595337, guid: 4be41351a8e175f4296f6e4c83c3b638,
+        type: 3}
+      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_TargetAssemblyTypeName
+      value: CharacterConfigurator.ScriptableObjects.CharacterData, Assembly-CSharp
+      objectReference: {fileID: 0}
+    - target: {fileID: 5750261382828595337, guid: 4be41351a8e175f4296f6e4c83c3b638,
+        type: 3}
+      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_Arguments.m_ObjectArgument
+      value: 
+      objectReference: {fileID: 11400000, guid: 2f1e5b5354ae9f641ac5c2b7b45cde61,
+        type: 2}
+    - target: {fileID: 5750261382828595337, guid: 4be41351a8e175f4296f6e4c83c3b638,
+        type: 3}
+      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_Arguments.m_ObjectArgumentAssemblyTypeName
+      value: CharacterConfigurator.ScriptableObjects.ModelData, Assembly-CSharp
       objectReference: {fileID: 0}
     - target: {fileID: 7463920899838828574, guid: 4be41351a8e175f4296f6e4c83c3b638,
         type: 3}
@@ -2467,6 +2675,32 @@ PrefabInstance:
         type: 3}
       propertyPath: m_AnchoredPosition.y
       value: -305
+      objectReference: {fileID: 0}
+    - target: {fileID: 8024835746794675120, guid: 4be41351a8e175f4296f6e4c83c3b638,
+        type: 3}
+      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_Mode
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 8024835746794675120, guid: 4be41351a8e175f4296f6e4c83c3b638,
+        type: 3}
+      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_MethodName
+      value: Set
+      objectReference: {fileID: 0}
+    - target: {fileID: 8024835746794675120, guid: 4be41351a8e175f4296f6e4c83c3b638,
+        type: 3}
+      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_TargetAssemblyTypeName
+      value: CharacterConfigurator.ScriptableObjects.CharacterData, Assembly-CSharp
+      objectReference: {fileID: 0}
+    - target: {fileID: 8024835746794675120, guid: 4be41351a8e175f4296f6e4c83c3b638,
+        type: 3}
+      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_Arguments.m_ObjectArgument
+      value: 
+      objectReference: {fileID: 11400000, guid: 5aaec580f2f4dc24eaca09438106f407,
+        type: 2}
+    - target: {fileID: 8024835746794675120, guid: 4be41351a8e175f4296f6e4c83c3b638,
+        type: 3}
+      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_Arguments.m_ObjectArgumentAssemblyTypeName
+      value: CharacterConfigurator.ScriptableObjects.ModelData, Assembly-CSharp
       objectReference: {fileID: 0}
     - target: {fileID: 8024835746794675125, guid: 4be41351a8e175f4296f6e4c83c3b638,
         type: 3}
