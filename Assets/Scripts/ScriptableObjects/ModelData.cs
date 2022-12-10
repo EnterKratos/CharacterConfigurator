@@ -7,6 +7,5 @@ namespace CharacterConfigurator.ScriptableObjects
     {
         public new string name;
         public double price;
-        public GameObject modelPrefab;
     }
 }

@@ -7,5 +7,6 @@ namespace CharacterConfigurator.ScriptableObjects
     {
         public Color colour;
         public double price;
+        public GameObject prefab;
     }
 }

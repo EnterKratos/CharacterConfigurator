@@ -13,5 +13,5 @@ MonoBehaviour:
   m_Name: Viking
   m_EditorClassIdentifier: 
   model: {fileID: 11400000, guid: 899e3a121b284c742bb7d1a137a04d04, type: 2}
-  weapon: {fileID: 0}
+  weapon: {fileID: 11400000, guid: 66d56420d4b22f54f9782b7c1f77e92a, type: 2}
   colour: {fileID: 11400000, guid: 93d8691febb02d649bb740c2d286aed8, type: 2}
