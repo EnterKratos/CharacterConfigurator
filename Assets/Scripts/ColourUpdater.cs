@@ -6,7 +6,7 @@ namespace CharacterConfigurator
 {
     public class ColourUpdater : MonoBehaviour
     {
-        public Image image;
+        public RawImage image;
         public ColourData colourData;
 
         public void Update()
