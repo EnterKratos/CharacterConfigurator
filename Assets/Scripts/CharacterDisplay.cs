@@ -16,10 +16,13 @@ namespace CharacterConfigurator
             Reset();
 
             var colour = _colourIndexMap[characterData.colour];
-            var prefab = characterData.model.prefabs[colour];
+            var characterPrefab = characterData.model.prefabs[colour];
+            var weaponPrefab = characterData.weapon.prefab;
 
             var parentTransform = transform;
-            Instantiate(prefab, parentTransform);
+            var character = Instantiate(characterPrefab, parentTransform);
+            var weaponPosition = character.GetComponent<WeaponPosition>();
+            Instantiate(weaponPrefab, weaponPosition.weaponSpawnPoint);
         }
 
         private void OnEnable()

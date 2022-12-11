@@ -2784,6 +2784,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: Egyptian_Blue
       objectReference: {fileID: 0}
+    - target: {fileID: 6181212515355254857, guid: 36bd9e3865af6bd4597ead02bc333ee2,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 6810503270575028979, guid: 36bd9e3865af6bd4597ead02bc333ee2,
         type: 3}
       propertyPath: m_RootOrder
