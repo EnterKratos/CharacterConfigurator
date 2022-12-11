@@ -1108,7 +1108,7 @@ PrefabInstance:
     - target: {fileID: 1427033597594251244, guid: 252713421b6a632439f65cf354b029d9,
         type: 3}
       propertyPath: m_Name
-      value: CameraButton
+      value: ViewButton
       objectReference: {fileID: 0}
     - target: {fileID: 1427033597594251247, guid: 252713421b6a632439f65cf354b029d9,
         type: 3}
@@ -1148,7 +1148,7 @@ PrefabInstance:
     - target: {fileID: 1427033597594251247, guid: 252713421b6a632439f65cf354b029d9,
         type: 3}
       propertyPath: m_SizeDelta.x
-      value: 109.133545
+      value: 65.1872
       objectReference: {fileID: 0}
     - target: {fileID: 1427033597594251247, guid: 252713421b6a632439f65cf354b029d9,
         type: 3}
@@ -1193,7 +1193,7 @@ PrefabInstance:
     - target: {fileID: 1427033597594251247, guid: 252713421b6a632439f65cf354b029d9,
         type: 3}
       propertyPath: m_AnchoredPosition.x
-      value: -48
+      value: -69.973145
       objectReference: {fileID: 0}
     - target: {fileID: 1427033597594251247, guid: 252713421b6a632439f65cf354b029d9,
         type: 3}
@@ -1218,7 +1218,7 @@ PrefabInstance:
     - target: {fileID: 1427033597952537703, guid: 252713421b6a632439f65cf354b029d9,
         type: 3}
       propertyPath: m_text
-      value: Camera
+      value: View
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 252713421b6a632439f65cf354b029d9, type: 3}
