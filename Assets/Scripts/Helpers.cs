@@ -5,7 +5,7 @@ namespace CharacterConfigurator
 {
     public static class Helpers
     {
-        public static string FormatCurrencyValue(double value) => $"£{value}";
+        public static string FormatCurrencyValue(double value) => $"ж{value}";
 
         public static int GetIndex(this Transform transform)
         {
