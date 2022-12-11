@@ -39,8 +39,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 1, y: 1}
-  m_AnchoredPosition: {x: 0, y: 0}
-  m_SizeDelta: {x: 0, y: 0}
+  m_AnchoredPosition: {x: -24.00003, y: -288}
+  m_SizeDelta: {x: 0, y: -58.8965}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!222 &4947086241706185394
 CanvasRenderer:
@@ -93,9 +93,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   m_Padding:
-    m_Left: 40
+    m_Left: 10
     m_Right: 0
-    m_Top: 65
+    m_Top: 11
     m_Bottom: 0
   m_ChildAlignment: 0
   m_Spacing: 0
@@ -186,7 +186,6 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   container: {fileID: 7463920899838828574}
-  menuIndex: 0
   currentMenuIndex: {fileID: 11400000, guid: 85ac906b82fe9a2448670bc94b46db0a, type: 2}
 --- !u!1001 &984482125319851026
 PrefabInstance:
@@ -233,12 +232,12 @@ PrefabInstance:
     - target: {fileID: 7130435017966409636, guid: abc4d47403e159f4ba66077015d48168,
         type: 3}
       propertyPath: m_SizeDelta.x
-      value: 280
+      value: 204.837
       objectReference: {fileID: 0}
     - target: {fileID: 7130435017966409636, guid: abc4d47403e159f4ba66077015d48168,
         type: 3}
       propertyPath: m_SizeDelta.y
-      value: 480
+      value: 339.65
       objectReference: {fileID: 0}
     - target: {fileID: 7130435017966409636, guid: abc4d47403e159f4ba66077015d48168,
         type: 3}
@@ -358,12 +357,12 @@ PrefabInstance:
     - target: {fileID: 7130435017966409636, guid: abc4d47403e159f4ba66077015d48168,
         type: 3}
       propertyPath: m_SizeDelta.x
-      value: 280
+      value: 204.837
       objectReference: {fileID: 0}
     - target: {fileID: 7130435017966409636, guid: abc4d47403e159f4ba66077015d48168,
         type: 3}
       propertyPath: m_SizeDelta.y
-      value: 480
+      value: 339.65
       objectReference: {fileID: 0}
     - target: {fileID: 7130435017966409636, guid: abc4d47403e159f4ba66077015d48168,
         type: 3}
@@ -483,12 +482,12 @@ PrefabInstance:
     - target: {fileID: 7130435017966409636, guid: abc4d47403e159f4ba66077015d48168,
         type: 3}
       propertyPath: m_SizeDelta.x
-      value: 280
+      value: 204.837
       objectReference: {fileID: 0}
     - target: {fileID: 7130435017966409636, guid: abc4d47403e159f4ba66077015d48168,
         type: 3}
       propertyPath: m_SizeDelta.y
-      value: 480
+      value: 339.65
       objectReference: {fileID: 0}
     - target: {fileID: 7130435017966409636, guid: abc4d47403e159f4ba66077015d48168,
         type: 3}
